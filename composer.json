@@ -1,0 +1,11 @@
+{
+    "name": "weeble/validator",
+    "description": "Easy command friendly validation.",
+    "authors": [
+        {
+            "name": "Shaun Walker",
+            "email": "shaunwalker@nibbletech.co.uk"
+        }
+    ],
+    "require": {}
+}
