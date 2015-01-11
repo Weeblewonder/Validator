@@ -1,11 +1,17 @@
 {
     "name": "weeble/validator",
     "description": "Easy command friendly validation.",
+    "license": "MIT",
     "authors": [
         {
             "name": "Shaun Walker",
             "email": "shaunwalker@nibbletech.co.uk"
         }
     ],
-    "require": {}
+    "require": {},
+	"autoload": {
+		"psr-4": {
+			"Weeble\\Validator": "src/"
+		}
+	},
 }
