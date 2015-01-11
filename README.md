@@ -1,0 +1,1 @@
+Easy command friendly validation.
